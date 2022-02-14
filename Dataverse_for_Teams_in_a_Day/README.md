@@ -1,4 +1,6 @@
-[Return](../README.md)
+[Back to Home](../README.md)
+
+<br>
 
 # Dataverse for Teams in a Day
 
@@ -19,3 +21,7 @@
 
 **Completed Hands-on-Labs**
  - [Completed Hands-on-Labs](./Completed%20Modules.zip)
+
+ <br>
+
+ [Back to Home](../README.md)

@@ -1,4 +1,6 @@
-[Return](../README.md)
+[Back to Home](../README.md)
+
+<br>
 
 # Build Your Own Power Apps Solution in a Day 
 
@@ -22,3 +24,7 @@
 
 **Completed Hands-on-Labs**
  - [Completed Hands-on-Labs](./BYOPAS%20Completed%20Solution.zip)
+
+<br>
+
+ [Back to Home](../README.md)

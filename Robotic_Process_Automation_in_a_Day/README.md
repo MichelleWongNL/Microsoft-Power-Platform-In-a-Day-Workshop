@@ -1,4 +1,6 @@
-[Return](../README.md)
+[Back to Home](../README.md)
+
+<br>
 
 # Robotic Process Automation in a Day
 
@@ -32,3 +34,8 @@
 
 **Resources/assets for the labs**
  -  [student lab data packages.zip](./student%20lab%20data%20packages.zip)
+
+
+<br>
+
+ [Back to Home](../README.md)

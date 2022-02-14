@@ -1,4 +1,6 @@
-[Return](../README.md)
+[Back to Home](../README.md)
+
+<br>
 
 # Power Automate in a day
 
@@ -29,3 +31,8 @@
 **Resources/assets for the labs**
  - [Resources for Labs v8](./Resources%20for%20Labs%20v8.zip)
 
+
+
+<br>
+
+ [Back to Home](../README.md)

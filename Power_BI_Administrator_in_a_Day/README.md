@@ -1,4 +1,6 @@
-[Return](../README.md)
+[Back to Home](../README.md)
+
+<br>
 
 # Power BI Administrator in a Day
 
@@ -22,3 +24,8 @@
 **Resources/assets for the labs**
 - [Assets](./Assets.zip)
 - [Scripts](./Scripts.zip) 
+
+
+<br>
+
+ [Back to Home](../README.md)

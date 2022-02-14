@@ -1,6 +1,8 @@
-[Return](../README.md)
+[Back to Home](../README.md)
 
-# 
+<br>
+
+# Power BU Dashboard in a Day
 
 
 ## Hands-on-Labs
@@ -27,3 +29,7 @@
 **Resources/assets for the labs**
 - [Data](./Data.zip)
 
+
+<br>
+
+ [Back to Home](../README.md)
