@@ -24,7 +24,7 @@
 - [Dataverse for Teams in a Day](./Dataverse_for_Teams_in_a_Day/README.md)
 - [Dataverse Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -39,7 +39,7 @@
 - [Build Your Own Power Apps Solution in a Day](./Build_Your_Own_Power_Apps_Solution_in_a_Day/README.md)
 - [Power Apps Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -54,7 +54,7 @@
 - [Robotic Process Automation in a Day](./Robotic_Process_Automation_in_a_Day/README.md)
 - [Power Automate & Robotic Process Automation (RPA Licesing)](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -68,7 +68,7 @@
 - [Power BI Administrator in a Day](./Power_BI_Administrator_in_a_Day/README.md)
 - [Power BI Dashboard in a Day](./Power_BI_Dashboard_in_a_Day/README.md)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -82,7 +82,7 @@
 - [Power Virtual Agents In A Day](./Power_Virtual_Agents_in_a_Day/README.md)
 - [Power Virtual Agents  Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -100,7 +100,7 @@
 - **Power Apps** 
     - [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
 ---
@@ -137,6 +137,6 @@
     -[Microsoft Portals Sample](https://github.com/microsoft/PowerApps-Samples/tree/master/portals)
     
 
-[return to top](#top)
+[Return to top](#top)
 <br>
 
