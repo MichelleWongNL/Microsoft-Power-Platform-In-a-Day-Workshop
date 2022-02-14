@@ -81,6 +81,7 @@
 
 - [Power Virtual Agents In A Day](./Power_Virtual_Agents_in_a_Day/README.md)
 - [Power Virtual Agents  Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Responsible bots: 10 guidelines for developers of conversational AI](https://www.microsoft.com/en-us/research/publication/responsible-bots/)
 
 [Return to top](#top)
 <br/>
