@@ -1,0 +1,132 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+    "padding": "none",
+    "body": [
+        {
+            "type": "Container",
+            "style": "emphasis",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "size": "large",
+                                    "text": "**APPROVED**"
+                                }
+                            ],
+                            "width": "stretch"
+                        },
+                        {
+                        
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "padding": "default",
+            "spacing": "None",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "verticalContentAlignment": "center",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "style": "Logo",
+                                    "url": "https://logodix.com/logo/842610.jpg",
+                                    "width": "40px",
+                                    "altText": "Contoso Logo"
+                                }
+                            ],
+                            "width": "auto"
+                        },
+                        {
+                            "type": "Column",
+                            "verticalContentAlignment": "center",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "size": "Medium",
+                                    "text": "Approved by **APPROVER NAME**",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "spacing": "None",
+                                    "text": " APPROVER EMAIL ",
+                                    "isSubtle": true
+                                }
+                            ],
+                            "width": "stretch"
+                        }
+                    ]
+                },
+                {
+                    "type": "Container",
+                    "spacing": "large",
+                    "items": [
+                        {
+                            "type": "ColumnSet",
+                            "columns": [
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "Image",
+                                            "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/white-heavy-check-mark_2705.png",
+                                            "altText": "Green check mark"
+                                        }
+                                    ],
+                                    "width": 1
+                                },
+                                {
+                                    "type": "Column",
+                                    "items": [
+                                        {
+                                            "type": "TextBlock",
+                                            "size": "Medium",
+                                            "weight": "Bolder",
+                                            "wrap": true,
+                                            "text": " REQUEST NAME "
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "spacing": "None",
+                                            "color": "accent",
+                                            "size": "Medium",
+                                            "text": " ASSET NAME "
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "wrap": true,
+                                            "text": "Request id: REQUEST NUMBER"
+                                        },
+                                        {
+                                            "type": "TextBlock",
+                                            "spacing": "None",
+                                            "wrap": true,
+                                            "text": "Approver comments: APPROVER COMMENTS "
+                                        }
+                                    ],
+                                    "width": 5
+                                }
+                            ]
+                        }
+                    
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "1.0"
+}
