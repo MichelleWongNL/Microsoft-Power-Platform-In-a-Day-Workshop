@@ -1,6 +1,6 @@
 [Back to Home](../README.md)
 
-<br>
+<br/>
 
 # Power App in a Day
 
@@ -26,6 +26,6 @@
  - [Completed Hands-on-Labs](./Completed%20for%20students.zip)
 
 
-<br>
+<br/>
 
  [Back to Home](../README.md)

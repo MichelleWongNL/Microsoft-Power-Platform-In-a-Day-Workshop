@@ -11,11 +11,11 @@
 - [Samples](#samples)
 
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Microsoft Teams & Dataverse
 
@@ -25,11 +25,11 @@
 - [Dataverse Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Microsoft Power Apps
 
@@ -40,11 +40,11 @@
 - [Power Apps Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Microsoft Power Automate & Robotic Process Automation (RPA)
 
@@ -55,11 +55,11 @@
 - [Power Automate & Robotic Process Automation (RPA Licesing)](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Microsoft Power BI
 
@@ -69,11 +69,11 @@
 - [Power BI Dashboard in a Day](./Power_BI_Dashboard_in_a_Day/README.md)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Microsoft Power Virtual Agents
 
@@ -83,11 +83,11 @@
 - [Power Virtual Agents  Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Tools
 
@@ -101,11 +101,11 @@
     - [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
 
 [Return to top](#top)
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ### Samples
 
@@ -138,5 +138,5 @@
     
 
 [Return to top](#top)
-<br>
+<br/>
 

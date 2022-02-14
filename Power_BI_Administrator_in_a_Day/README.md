@@ -1,6 +1,6 @@
 [Back to Home](../README.md)
 
-<br>
+<br/>
 
 # Power BI Administrator in a Day
 
@@ -9,7 +9,7 @@
 - [Basic Module](./Admin%20in%20a%20Day%20-%20Basic%20Module_Attendee.pptx)
 - [Advanced Module](./Admin%20in%20a%20Day%20-%20Advanced%20Module_Attendee.pptx)
 
-<br>
+<br/>
 
 - [Knowledge Check](./Knowledge%20Check.pdf)
 
@@ -26,6 +26,6 @@
 - [Scripts](./Scripts.zip) 
 
 
-<br>
+<br/>
 
  [Back to Home](../README.md)
