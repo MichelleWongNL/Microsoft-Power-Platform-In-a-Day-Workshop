@@ -8,6 +8,7 @@
 - [Microsoft Power BI](#microsoft-power-bi)
 - [Microsoft Power Virtual Agents](#microsoft-power-virtual-agents)
 - [Tools](#tools)
+- [Release plan](https://docs.microsoft.com/en-us/power-platform-release-plan)
 - [Samples](#samples)
 
 
