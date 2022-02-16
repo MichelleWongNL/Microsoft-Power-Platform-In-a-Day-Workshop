@@ -16,11 +16,11 @@
 
 ---
 
+<a id="microsoft-power-apps" />
+
 <br/>
 
 ### Microsoft Power Apps
-
-<a id="microsoft-power-apps" />
 
 - [Power Apps in a Day](./Power_Apps_in_a_Day/README.md)
 - [Build Your Own Power Apps Solution in a Day](./Build_Your_Own_Power_Apps_Solution_in_a_Day/README.md)
@@ -33,11 +33,11 @@
 
 ---
 
+<a id="microsoft-power-automate" />
+
 <br/>
 
 ### Microsoft Power Automate & Robotic Process Automation (RPA)
-
-<a id="microsoft-power-automate" />
 
 - [Power Automate in a day](./Power_Automate_in_a_day/README.md)
 - [Robotic Process Automation in a Day](./Robotic_Process_Automation_in_a_Day/README.md)
@@ -50,11 +50,11 @@
 
 ---
 
+<a id="microsoft-power-bi" />
+
 <br/>
 
 ### Microsoft Power BI
-
-<a id="microsoft-power-bi" />
 
 - [Power BI Administrator in a Day](./Power_BI_Administrator_in_a_Day/README.md)
 - [Power BI Dashboard in a Day](./Power_BI_Dashboard_in_a_Day/README.md)
@@ -66,11 +66,13 @@
 
 ---
 
+
+<a id="microsoft-power-virtual-agents" />
+
 <br/>
 
 ### Microsoft Power Virtual Agents
 
-<a id="microsoft-power-virtual-agents" />
 
 - [Power Virtual Agents In A Day](./Power_Virtual_Agents_in_a_Day/README.md)
 - [Power Virtual Agents Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
@@ -83,11 +85,11 @@
 
 ---
 
+<a id="microsoft-teams-and-dataverse" />
+
 <br/>
 
 ### Microsoft Teams & Dataverse
-
-<a id="microsoft-teams-and-dataverse" />
 
 - [Dataverse for Teams in a Day](./Dataverse_for_Teams_in_a_Day/README.md)
 - [Dataverse Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
@@ -99,11 +101,11 @@
 
 ---
 
+<a id="tools" />
+
 <br/>
 
 ### Tools
-
-<a id="tools" />
 
 - **Power Platform**
     - [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
@@ -118,11 +120,11 @@
 
 ---
 
+<a id="samples" />
+
 <br/>
 
 ### Samples
-
-<a id="samples" />
 
 - **Power Platform Admin Center**
     - [Power Platform Data Loss Prevention (DLP) SDK](https://github.com/microsoft/PowerApps-Samples/tree/master/powershell/admin-center)
