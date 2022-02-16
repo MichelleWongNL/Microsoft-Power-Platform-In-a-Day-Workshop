@@ -2,30 +2,16 @@
 
 # Microsoft Power Platform In a Day Workshop
 
-- [Microsoft Teams & Dataverse](#microsoft-teams-and-dataverse)
 - [Microsoft Power Apps](#microsoft-power-apps)
 - [Microsoft Power Automate & Robotic Process Automation (RPA)](#microsoft-power-automate)
 - [Microsoft Power BI](#microsoft-power-bi)
 - [Microsoft Power Virtual Agents](#microsoft-power-virtual-agents)
+- [Microsoft Teams & Dataverse](#microsoft-teams-and-dataverse)
 - [Tools](#tools)
 - [Release plan](https://docs.microsoft.com/en-us/power-platform-release-plan)
 - [Samples](#samples)
 
 
-<br/>
-
----
-
-<br/>
-
-### Microsoft Teams & Dataverse
-
-<a id="microsoft-teams-and-dataverse" />
-
-- [Dataverse for Teams in a Day](./Dataverse_for_Teams_in_a_Day/README.md)
-- [Dataverse Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
-
-[Return to top](#top)
 <br/>
 
 ---
@@ -38,9 +24,11 @@
 
 - [Power Apps in a Day](./Power_Apps_in_a_Day/README.md)
 - [Build Your Own Power Apps Solution in a Day](./Build_Your_Own_Power_Apps_Solution_in_a_Day/README.md)
-- [Power Apps Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Power Apps Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Important changes (deprecations) coming in Power Apps](https://docs.microsoft.com/en-us/power-platform/important-changes-coming)
 
 [Return to top](#top)
+
 <br/>
 
 ---
@@ -53,9 +41,11 @@
 
 - [Power Automate in a day](./Power_Automate_in_a_day/README.md)
 - [Robotic Process Automation in a Day](./Robotic_Process_Automation_in_a_Day/README.md)
-- [Power Automate & Robotic Process Automation (RPA Licesing)](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Power Automate & Robotic Process Automation (RPA) Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Important changes (deprecations) coming in Power Automate](https://docs.microsoft.com/en-us/power-platform/important-changes-coming)
 
 [Return to top](#top)
+
 <br/>
 
 ---
@@ -68,8 +58,10 @@
 
 - [Power BI Administrator in a Day](./Power_BI_Administrator_in_a_Day/README.md)
 - [Power BI Dashboard in a Day](./Power_BI_Dashboard_in_a_Day/README.md)
+- [Power BI Licesing Guide](https://docs.microsoft.com/en-us/power-bi/fundamentals/service-self-service-signup-for-power-bi)
 
 [Return to top](#top)
+
 <br/>
 
 ---
@@ -81,10 +73,28 @@
 <a id="microsoft-power-virtual-agents" />
 
 - [Power Virtual Agents In A Day](./Power_Virtual_Agents_in_a_Day/README.md)
-- [Power Virtual Agents  Licesing](./Licensing/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Power Virtual Agents Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
 - [Responsible bots: 10 guidelines for developers of conversational AI](https://www.microsoft.com/en-us/research/publication/responsible-bots/)
 
 [Return to top](#top)
+
+<br/>
+
+
+---
+
+<br/>
+
+### Microsoft Teams & Dataverse
+
+<a id="microsoft-teams-and-dataverse" />
+
+- [Dataverse for Teams in a Day](./Dataverse_for_Teams_in_a_Day/README.md)
+- [Dataverse Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
+- [Criar aplicações colaborativas com a integração do Microsoft Teams e do Microsoft Power Platform (pt-PT)](./Assets/Criar_aplicacoes_colaborativas_com_integracao_do_MS_Teams_e_Power_Platform.pdf)
+
+[Return to top](#top)
+
 <br/>
 
 ---
@@ -103,6 +113,7 @@
     - [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
 
 [Return to top](#top)
+
 <br/>
 
 ---
@@ -140,5 +151,6 @@
     
 
 [Return to top](#top)
+
 <br/>
 
