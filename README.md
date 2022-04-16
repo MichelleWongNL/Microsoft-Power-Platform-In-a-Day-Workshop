@@ -2,157 +2,68 @@
 
 # Microsoft Power Platform In a Day Workshop
 
-- [Microsoft Power Apps](#microsoft-power-apps)
-- [Microsoft Power Automate & Robotic Process Automation (RPA)](#microsoft-power-automate)
-- [Microsoft Power BI](#microsoft-power-bi)
-- [Microsoft Power Virtual Agents](#microsoft-power-virtual-agents)
-- [Microsoft Teams & Dataverse](#microsoft-teams-and-dataverse)
-- [Tools](#tools)
-- [Release plan](https://docs.microsoft.com/en-us/power-platform-release-plan)
-- [Samples](#samples)
+
+- [Oficial Microsoft Power Platform Workshops](#oficial-microsoft-power-platform-workshops)
+- [User Groups](#user-groups)
 
 
 <br/>
 
----
+<a id="oficial-microsoft-power-platform-workshops" />
 
-<a id="microsoft-power-apps" />
+## Oficial Microsoft Power Platform Workshops
+
+
+| Area  | Workshop  | Description | URL | 
+| :---: | --- | --- | --- | 
+| Power Platform Admin Center | Admin in a day | Best practices for management and governance of Power Apps and Power Automate. | [Link Here](https://github.com/microsoft/powerapps-tools/tree/master/Administration/AdminInADay) |
+| Power Apps | App in a Day | Experience the possibilities of building great business apps without writing code. | [English Link here](https://aka.ms/appinaday) , [Other languages here](https://aka.ms/AppinadayLocal) |
+| Power Apps | App in an hours <br> ***Warning: OUTDATED*** | Beginner level lab for you to get hands on experience with PowerApps, and the Dataverse. | [Here](https://aka.ms/AppInHours) |
+| Power Apps | Build your own Power Apps Solution | Working with Power Apps and other Microsoft products and has the following prerequisite 'App in a Day' completion or equivalent work experience with Power Apps. | [Link Here](https://aka.ms/BYOPAS_Student) | 
+| Power Automate | Connector in a Day <br> ***Warning: OUTDATED*** | This multi-part tutorial covers the creation of a new data source extension for Power Query. | [Link Here](https://github.com/Microsoft/DataConnectors/tree/master/samples/TripPin) | 
+| Power Automate | Flow in a Day <br>***Warning: OUTDATED*** | Introduce Microsoft Flow. | [Link Here](https://aka.ms/flowinaday) | 
+| Power Automate | Power Automate in a Day | Experience the possibilities of building flows with Power Automate | [Link Here](https://github.com/Power-Automate-in-a-day/Training-by-the-community) |
+| Power Automate |  Robotic process automation (RPA) in a day  | Power Automate and robotic process automation content. | [Link Here](https://aka.ms/RPAinaDayPackage) |
+| Power Virtual Agents  | Power Virtual Agents chatbot in a Day   | Hands-on experience designing and developing a chatbot. | [Link Here](https://aka.ms/PVAinaDayPackage) | 
+| Power BI | Dashboard in a Day | Covering the breadth of Power BI capabilities. | [English link here](https://aka.ms/diad_student), [Other languages here](https://aka.ms/DIAD_Attendee_Local) |
+| Power BI | Advanced Visualization with Power BI | Power BI report layouts and structure the agile process to creating Power BI data visualizations. | [Link Here](https://aka.ms/PBI-adv-Vis) |
+| Power BI | Advanced Data Modeling and Shaping with Power BI | Using Power BI Desktop to import and shape data from a variety of sources. | [Link Here](https://aka.ms/PBIModelShape) |
+| Power BI | DAX in a Day | Experienced model developers. | [Link Here](https://aka.ms/DAXIAD) |
+| Power BI | Administrator in a Day | Microsoft Power BI administration.  | [Link Here](https://aka.ms/PBI-AdminIAD) |
+| Power BI | Paginated Reports in a Day  | Create, publish, and distribute Power BI paginated reports| [English link here](https://aka.ms/priad-student), [Other languages here](https://aka.ms/priad-student) |
+| Power BI | Developer in a Day | Embed Power BI content | [Link Here](https://aka.ms/DevIAD_Student)|
+| Power BI | Modern Excel Analyst in a Day | Excel and Power BI | [Link Here](https://aka.ms/MAIAD-Attendee) |
+| Power BI | Leap into Power BI | Tableau, showing them how to achieve the same functionality in Power BI. | [Link Here](https://aka.ms/LeapAttendee) |
+
+[Return to top](#top)
+
 
 <br/>
 
-### Microsoft Power Apps
+<a id="user-groups" />
 
-- [Power Apps in a Day](./Power_Apps_in_a_Day/README.md)
-- [Build Your Own Power Apps Solution in a Day](./Build_Your_Own_Power_Apps_Solution_in_a_Day/README.md)
-- [Power Apps Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
-- [Important changes (deprecations) coming in Power Apps](https://docs.microsoft.com/en-us/power-platform/important-changes-coming)
+## User Groups
+
+User Groups about Microsoft Power Platform and Dynamics 365
+
+<br/>
+
+- [Microsoft Dynamics 365 Community](https://community.dynamics.com/)
+- [Microsoft Dynamics 365 User Groups](https://aka.ms/DY_Comm_UserGroups)
+- [Microsoft Power Apps Community](https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1)
+- [Microsoft Power Apps User Groups](https://powerusers.microsoft.com/t5/Power-Apps-User-Groups/ct-p/pa_usergroups)
+- [Microsoft Power Automate Community](https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity)
+- [Microsoft Power Automate User Groups](https://powerusers.microsoft.com/t5/Power-Automate-User-Groups/ct-p/mpa_usergroups)
+- [Microsoft Power BI Community](https://community.powerbi.com/)
+- [Microsoft Power BI User Groups](https://community.powerbi.com/t5/Power-BI-User-Groups/ct-p/pbi_usergroups)
+- [Microsoft Power Virtual Agents Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity)
+- [Microsoft Power Virtual User Groups](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-User-Groups/ct-p/pva_usergroups)
+- [Power Platform User Groups](https://powerusers.microsoft.com/t5/Power-Platform-User-Groups/ct-p/pp_usergroups)
+- [Power Platform UG Community](https://www.powerplatformug.com/home)
+
+
+<br/>
 
 [Return to top](#top)
 
 <br/>
-
----
-
-<a id="microsoft-power-automate" />
-
-<br/>
-
-### Microsoft Power Automate & Robotic Process Automation (RPA)
-
-- [Power Automate in a day](./Power_Automate_in_a_day/README.md)
-- [Robotic Process Automation in a Day](./Robotic_Process_Automation_in_a_Day/README.md)
-- [Power Automate & Robotic Process Automation (RPA) Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
-- [Important changes (deprecations) coming in Power Automate](https://docs.microsoft.com/en-us/power-platform/important-changes-coming)
-
-[Return to top](#top)
-
-<br/>
-
----
-
-<a id="microsoft-power-bi" />
-
-<br/>
-
-### Microsoft Power BI
-
-- [Power BI Administrator in a Day](./Power_BI_Administrator_in_a_Day/README.md)
-- [Power BI Dashboard in a Day](./Power_BI_Dashboard_in_a_Day/README.md)
-- [Power BI Licesing Guide](https://docs.microsoft.com/en-us/power-bi/fundamentals/service-self-service-signup-for-power-bi)
-
-[Return to top](#top)
-
-<br/>
-
----
-
-
-<a id="microsoft-power-virtual-agents" />
-
-<br/>
-
-### Microsoft Power Virtual Agents
-
-
-- [Power Virtual Agents In A Day](./Power_Virtual_Agents_in_a_Day/README.md)
-- [Power Virtual Agents Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
-- [Responsible bots: 10 guidelines for developers of conversational AI](https://www.microsoft.com/en-us/research/publication/responsible-bots/)
-
-[Return to top](#top)
-
-<br/>
-
-
----
-
-<a id="microsoft-teams-and-dataverse" />
-
-<br/>
-
-### Microsoft Teams & Dataverse
-
-- [Dataverse for Teams in a Day](./Dataverse_for_Teams_in_a_Day/README.md)
-- [Dataverse Licesing Guide](./Assets/Power_Platform_Licensing_Guide_February_2022_FINAL_PUB.pdf)
-- [Criar aplicações colaborativas com a integração do Microsoft Teams e do Microsoft Power Platform (pt-PT)](./Assets/Criar_aplicacoes_colaborativas_com_integracao_do_MS_Teams_e_Power_Platform.pdf)
-
-[Return to top](#top)
-
-<br/>
-
----
-
-<a id="tools" />
-
-<br/>
-
-### Tools
-
-- **Power Platform**
-    - [Microsoft Power Platform Center of Excellence (CoE) Starter Kit](https://docs.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
-    - [Microsoft Power Platform Build Tools for Azure DevOps](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
-
-- **Power Apps** 
-    - [Microsoft Power Apps tools](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
-
-[Return to top](#top)
-
-<br/>
-
----
-
-<a id="samples" />
-
-<br/>
-
-### Samples
-
-- **Power Platform Admin Center**
-    - [Power Platform Data Loss Prevention (DLP) SDK](https://github.com/microsoft/PowerApps-Samples/tree/master/powershell/admin-center)
-
-- **Microsoft Dataverse**
-    - [Microsoft Dataverse Sample and Helper Code](https://github.com/microsoft/PowerApps-Samples/tree/master/cds)
-    - [Component framework](https://github.com/microsoft/PowerApps-Samples/tree/master/component-framework)
-    - [TimelineWallControl's custom connector](https://github.com/microsoft/PowerApps-Samples/tree/master/model-driven-apps/custom-connectors/SecondaryRecordSource/solution)
-
-
-- **Power Apps** 
-    - [Community App Samples](https://powerusers.microsoft.com/t5/Community-App-Samples/bd-p/AppFeedbackGallery)
-    - [Canvas Apps Components Samples](https://powerusers.microsoft.com/t5/Canvas-Apps-Components-Samples/bd-p/ComponentsGallery)
-    - [AI Builder](https://github.com/microsoft/PowerApps-Samples/tree/master/ai-builder)
-
-
-- **Power Automate**
-    - [Microsoft 365 Platform Community Power Automate Samples](https://pnp.github.io/powerplatform-samples/samples/powerautomate/)
-
-
-- **Power FX**
-    - [Microsoft 365 Platform Community Power Fx Samples](https://pnp.github.io/powerplatform-samples/samples/powerfx/)
-
-- **Portals**
-    -[Microsoft Portals Sample](https://github.com/microsoft/PowerApps-Samples/tree/master/portals)
-    
-
-[Return to top](#top)
-
-<br/>
-
